@@ -1,7 +1,4 @@
-elg7186-a2
-==============================
 
-A2 for ELG7186
 
 Project Organization
 ------------
